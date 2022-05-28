@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **NodeJS, ExpressJS, MongoDB**
 
-- 👨‍💻 All of my projects are available at [https://my-new-dw4vm3jlb-dumarenandu70-gmailcom.vercel.app/](https://my-new-dw4vm3jlb-dumarenandu70-gmailcom.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://my-new-ms11j7luc-dumarenandu70-gmailcom.vercel.app/](https://my-new-ms11j7luc-dumarenandu70-gmailcom.vercel.app/)
 
 - 💬 Ask me about **React, Html, Css, Javascript**
 
