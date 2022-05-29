@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **NodeJS, ExpressJS, MongoDB**
 
-- 👨‍💻 All of my projects are available at [https://my-new-ms11j7luc-dumarenandu70-gmailcom.vercel.app/](https://my-new-ms11j7luc-dumarenandu70-gmailcom.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://my-portfolio-nandu.vercel.app/](https://my-portfolio-nandu.vercel.app/)
 
 - 💬 Ask me about **React, Html, Css, Javascript**
 
