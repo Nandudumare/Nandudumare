@@ -29,12 +29,13 @@
     <td>
       <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nandudumare&show_icons=true&locale=en&layout=compact" alt="nandudumare" /></p>
     </td>
-  </tr>
-  <tr>
-    <td>
+     <td>
        <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nandudumare&show_icons=true&locale=en" alt="nandudumare" /></p>
     </td>
   </tr>
+
+   
+
   <tr>
     <td>
       
