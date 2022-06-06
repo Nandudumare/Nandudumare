@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **dumarenandu70@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1DhFQyo4bqY9PP_v3mVMWw_tdL0CApdxe/view?usp=sharing](https://drive.google.com/file/d/1DhFQyo4bqY9PP_v3mVMWw_tdL0CApdxe/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/17tL1bIjd9-mq56GxqJeG1bKch3SDxHW-/view?usp=sharing](https://drive.google.com/file/d/17tL1bIjd9-mq56GxqJeG1bKch3SDxHW-/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
