@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://my-portfolio-nandu.vercel.app/](https://my-portfolio-nandu.vercel.app/)
 
-- 💬 Ask me about **React, Html, Css, Javascript**
+- 💬 Ask me about **Html, Css, Javascript, React, Node, Express, Mongo DB**
 
 - 📫 How to reach me **dumarenandu70@gmail.com**
 
