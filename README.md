@@ -19,6 +19,8 @@ Self-motivated and curious, with creativity.</h3>
 <a href="https://instagram.com/nandu.dumare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nandu.dumare" height="30" width="40" /></a>
 <a href="https://medium.com/@dumarenandu70" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@dumarenandu70" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/nandudumare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nandudumare" height="30" width="40" /></a>
+<a href="https://codepen.io/nandudumare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="nandudumare" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/Nandudumare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Nandudumare" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
