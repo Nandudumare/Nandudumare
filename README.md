@@ -106,7 +106,7 @@ Self-motivated and curious, with creativity.</h3>
       </a>
       <a href="https://nodejs.org" target="_blank" rel="noreferrer">
         <img
-          src="https://nodejs.org/static/images/logos/nodejs-new-pantone-white.svg"
+          src="https://www.svgrepo.com/show/378837/node.svg"
           alt="nodejs"
           width="40"
           height="40"
@@ -122,7 +122,7 @@ Self-motivated and curious, with creativity.</h3>
       </a>
       <a href="https://jestjs.io" target="_blank" rel="noreferrer">
         <img
-          src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"
+          src="https://www.svgrepo.com/show/373700/jest.svg"
           alt="jest"
           width="40"
           height="40"
@@ -146,7 +146,7 @@ Self-motivated and curious, with creativity.</h3>
       </a>
       <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
         <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+          src="https://www.svgrepo.com/show/353498/bootstrap.svg"
           alt="bootstrap"
           width="40"
           height="40"
