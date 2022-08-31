@@ -5,7 +5,7 @@ Self-motivated and curious, with creativity.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nandudumare&label=Profile%20views&color=0e75b6&style=flat" alt="nandudumare" /> </p>
 
-- 👨‍💻 All of my projects are available at [**Portfolio**](https://my-portfolio-nandu.vercel.app/)
+- 👨‍💻 All of my projects are available on my [**Portfolio**](https://my-portfolio-nandu.vercel.app/)
 
 - 💬 Ask me about **MERN Stack**
 
