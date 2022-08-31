@@ -5,13 +5,13 @@ Self-motivated and curious, with creativity.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nandudumare&label=Profile%20views&color=0e75b6&style=flat" alt="nandudumare" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-nandu.vercel.app/](https://my-portfolio-nandu.vercel.app/)
+- 👨‍💻 All of my projects are available at [**Portfolio**](https://my-portfolio-nandu.vercel.app/)
 
-- 💬 Ask me about **Html, Css, Javascript, React, Node, Express, Mongo DB**
+- 💬 Ask me about **MERN Stack**
 
 - 📫 How to reach me **dumarenandu70@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1OiQWppzUaaFMa2JMZSXFVgvQA5y3Qp60/view?usp=sharing](https://drive.google.com/file/d/1OiQWppzUaaFMa2JMZSXFVgvQA5y3Qp60/view?usp=sharing)
+- 📄 Know about my experiences [**Resume**](https://drive.google.com/file/d/1OiQWppzUaaFMa2JMZSXFVgvQA5y3Qp60/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
