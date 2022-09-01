@@ -144,10 +144,18 @@ Self-motivated and curious, with creativity.</h3>
           height="40"
         />
       </a>
-      <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+      <a href="https://chakra-ui.com" target="_blank" rel="noreferrer">
         <img
-          src="https://www.svgrepo.com/show/353498/bootstrap.svg"
-          alt="bootstrap"
+          src="https://user-images.githubusercontent.com/97354079/187944744-f3d6447c-e0be-4361-a36c-97c05927a623.svg"
+          alt="chakraui"
+          width="40"
+          height="40"
+        />
+      </a>
+      <a href="https://mui.com" target="_blank" rel="noreferrer">
+        <img
+          src="https://user-images.githubusercontent.com/97354079/187944204-b3f09fe6-6f6d-49a0-90b5-8da94795311a.svg"
+          alt="mui"
           width="40"
           height="40"
         />
